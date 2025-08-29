@@ -1,0 +1,10 @@
+this is a text file
+t1
+t3
+t4
+t5
+t7
+t9
+t7
+t12
+ ABC
